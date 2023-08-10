@@ -1,1 +1,1 @@
-# stacok-app
+# stock-app
